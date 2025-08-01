@@ -10,7 +10,7 @@
 ### About
 A chatbot-style AI assistant that searches Wikipedia and Arxiv for you and shows the results in a simple, interactive Streamlit app using the Gemma 2b model via ChatOllama.
 
-#### Want to talk 😺👇🏼 
+#### Here is the Demo 😺👇🏼 
 
 <p align="start">
   <a href="https://drive.google.com/file/d/1-0h_QdHu7OA24pShAi4Lzg9e8_eaVESx/view?usp=sharing" target="_blank">
