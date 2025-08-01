@@ -1,0 +1,8 @@
+langchain
+ipykernel
+langchain_community
+langchain_openai
+wikipedia
+Arxiv
+streamlit
+duckduckgo-search
