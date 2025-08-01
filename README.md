@@ -13,7 +13,7 @@ A chatbot-style AI assistant that searches Wikipedia and Arxiv for you and shows
 #### Want to talk 😺👇🏼 
 
 <p align="start">
-  <a href="https://myfirstaibot.streamlit.app/" target="_blank">
+  <a href="https://drive.google.com/file/d/1-0h_QdHu7OA24pShAi4Lzg9e8_eaVESx/view?usp=sharing" target="_blank">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHp0enF6dXFxbnB3eDBsZjU4cW5zdnFpMnBiZ2U0emFkb3VuYjhqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dJrYq5BvfTv7YMd7EL/giphy.gif" width="150" alt="Chatbot Demo"/>
   </a>
 </p>
