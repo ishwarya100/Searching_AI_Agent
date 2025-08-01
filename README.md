@@ -1,5 +1,5 @@
 ## AI Search Agent
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishwarya100/My_ChatBot/blob/master/agenttool.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ishwarya100/Searching_AI_Agent/blob/master/agenttool.ipynb)
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square)](https://docs.streamlit.io/)
 [![LangChain](https://img.shields.io/badge/-LangChain-orange?logo=chainlink&logoColor=white&style=flat-square)](https://docs.langchain.com/)
